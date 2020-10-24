@@ -10,6 +10,7 @@ ui <- dashboardPage(
 
 server <- function(input, output) {
   "Aquí van un comentario"
+  "Otro comentario"
 }
 
 shinyApp(ui, server)
